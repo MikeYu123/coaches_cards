@@ -1,8 +1,8 @@
 {
-  "app.css": "/coaches_cards/public/css/app.css",
-  "app.js": "/coaches_cards/public/js/app.js",
-  "app.css.map": "/coaches_cards/public/css/app.css.map",
-  "app.js.map": "/coaches_cards/public/js/app.js.map",
+  "app.css": "/coaches_cards/public/css/app.99edb5fc3cd8c5b02cc1.css",
+  "app.js": "/coaches_cards/public/js/app.99edb5fc3cd8c5b02cc1.js",
+  "vendors~app.css": "/coaches_cards/public/css/vendors~app.e7ec88f5046a35d68f43.css",
+  "vendors~app.js": "/coaches_cards/public/js/vendors~app.e7ec88f5046a35d68f43.js",
   "brand.png": "/coaches_cards/public/031562c72185df433784c23486ca2774.png",
   "marks.png": "/coaches_cards/public/056e036f4b0d04d6d57a1049f2372184.png",
   "fitz.png": "/coaches_cards/public/0e3a6c3b8ac1a2fae177b297e94be965.png",
@@ -22,5 +22,6 @@
   "divac.png": "/coaches_cards/public/e5108eeb2030fe0c15cf771406ee7d6e.png",
   "pipino.png": "/coaches_cards/public/eb391ba5a39d04aa9f7e8714f2577322.png",
   "kobe.png": "/coaches_cards/public/f35e8f8745ccd04eeebaf53d4a022792.png",
-  "tibs.png": "/coaches_cards/public/fb375cd8f29d80a16079d35457153e4f.png"
+  "tibs.png": "/coaches_cards/public/fb375cd8f29d80a16079d35457153e4f.png",
+  "js/vendors~app.e7ec88f5046a35d68f43.js.LICENSE": "/coaches_cards/public/js/vendors~app.e7ec88f5046a35d68f43.js.LICENSE"
 }
